@@ -1,2 +1,2 @@
-# Portifolio
-Uma página web de apresentação e portifólio 
+# Portfolio
+Uma página web de apresentação e portfólio 
