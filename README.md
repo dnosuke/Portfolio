@@ -7,10 +7,17 @@ Uma página web de apresentação e portifólio
 O controle de tarefas é realizado no GitHub
 ## Ícones
 
+<<<<<<< HEAD
 - :package: nova funcionalidade
 - :up: atualização
 - :beatle: correção de bug
 - :checkered_flag: release
+=======
+:package: nova funcionalidade
+:up: atualização
+:beetle: correção de bug
+:checkered_flag: release
+>>>>>>> 4fbc0494185ab46db6ad5a43eef1ad7df6e8b687
 =======
 # Portfolio
 Uma página web de apresentação e portfólio 
