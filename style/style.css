@@ -15,6 +15,10 @@
     --font-action: "Muli", serif;
   }
 
+  html{
+    scroll-behavior: smooth;
+  }
+
 .hamburguer{
     
     width: 2rem;
@@ -28,6 +32,7 @@
     justify-content: space-evenly;
     cursor: pointer;
     transition: all 1s;
+    z-index: 160;
 }
 
 .show-menu .hamburguer{
@@ -179,6 +184,7 @@ header {
     top: 0;
     right: -20rem;
     transition: all 1s;
+    z-index: 150;
 }
 
 .show-menu .sidebar{
@@ -190,6 +196,7 @@ header {
     top: 40%;
     left: 50%;
     transform: translate(-50%,-50%);
+    
 }
 
 .menu-item{
